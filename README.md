@@ -1,8 +1,10 @@
 # biology-is-crazy🧬
-«A comprehensive solution to biology.
-一個完整的生物學解決方案。»
+> A comprehensive solution to biology.
+一個完整的生物學解決方案。
 
 ---
+
+[English](README.md) | [繁體中文](README.zh-TW.md)
 
 Humanity walks beneath the stars, yet rarely stops for even a moment to look inward.
 
