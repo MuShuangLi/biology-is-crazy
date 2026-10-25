@@ -57,7 +57,7 @@ Expected Output
 
 For international researchers, this can be translated as:
 
-«Do not study biology.»
+`Do not study biology.`
 
 ---
 
@@ -65,6 +65,6 @@ Conclusion
 
 Following comprehensive analysis and experimentation, this research has reached the following conclusion:
 
-Do not study biology.
+`Do not study biology.`
 
 The research is concluded.
