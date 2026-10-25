@@ -53,7 +53,7 @@ System Requirements
 
 Expected Output
 
-不要學生物
+`不要學生物`
 
 For international researchers, this can be translated as:
 
