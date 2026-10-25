@@ -1,6 +1,6 @@
 # biology-is-crazy 🧬
 
-"English" (README.md) | 繁體中文
+[English](README.md) | **繁體中文**
 
 > 一個完整的生物學解決方案。
 
